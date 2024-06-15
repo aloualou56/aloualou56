@@ -1,5 +1,6 @@
-Hi, I am aloualou56, and I am learning javascript for now! I would like to join small projects, but I am not very good in programming.
-My only completed project is alouBOT, which is an mineflayer bot. Now I am working on a Java game in my free time. 
+Hi, I am Elias, and I am a student programming in my free time. I have experience coding with C/CPP, Java and JavaScript. I am always looking to gain more experience and I will be happy to assist in projects.
+
+
 
 <!---
 aloualou56/aloualou56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
