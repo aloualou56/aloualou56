@@ -1,7 +1,7 @@
 Hi, I am Elias, and I am a student programming in my free time. I have experience coding with C/CPP, Java and JavaScript. I am always looking to gain more experience and I will be happy to assist in projects.
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=aloualou56)
 
 
 <!---
