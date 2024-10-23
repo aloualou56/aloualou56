@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Elias 👋
 I am a student who enjoys programming in my free time!
 
@@ -22,10 +23,17 @@ I am a student who enjoys programming in my free time!
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
 
-## My profile (for now)
-![Your GitHub stats](https://github-readme-stats-aloualou56s-projects.vercel.app/api?username=aloualou56&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e) 
-![](https://github-readme-stats-aloualou56s-projects.vercel.app/api/top-langs/?username=aloualou56&include_all_commits=false&count_private=true&&size_weight=0&count_weight=1&layout=donut&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&hide_border=true)
+## My profile (for now):
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-aloualou56s-projects.vercel.app/api?username=aloualou56&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats-aloualou56s-projects.vercel.app/api/top-langs/?username=aloualou56&include_all_commits=true&count_private=true&&size_weight=0.5&count_weight=0.5&layout=donut&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&hide_border=true" />
+</a>
+
+# Currently listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6v215dcpaqla8eb3vi63ib9q9&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=6v215dcpaqla8eb3vi63ib9q9&redirect=true)
 
 <!---
 aloualou56/aloualou56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
