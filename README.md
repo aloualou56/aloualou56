@@ -23,8 +23,8 @@ I am a student who enjoys programming in my free time!
 
 
 ## My profile (for now)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aloualou56&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aloualou56&include_all_commits=false&count_private=true&&size_weight=0&count_weight=1&layout=donut&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&hide_border=true)
+![Your GitHub stats](https://github-readme-stats-aloualou56s-projects.vercel.app/api?username=aloualou56&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e) 
+![](https://github-readme-stats-aloualou56s-projects.vercel.app/api/top-langs/?username=aloualou56&include_all_commits=false&count_private=true&&size_weight=0&count_weight=1&layout=donut&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&hide_border=true)
 
 
 <!---
