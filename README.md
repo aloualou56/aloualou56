@@ -4,11 +4,15 @@
 # Hi, I'm Elias 👋
 **Student developer building games, full-stack apps and hardware gadgets.**
 
+[![Website](https://img.shields.io/badge/Website-aloualou56.github.io-fb4362?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aloualou56.github.io)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aloualou56)
 
 </div>
 
 ## 🚀 Featured projects
+
+See all of my projects, with screenshots and a playable Nebula Requiem demo, on my site: **[aloualou56.github.io](https://aloualou56.github.io)**
 
 | Project | What it is | Stack |
 |---|---|---|
