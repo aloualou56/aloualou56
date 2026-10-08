@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit%20my%20site-fb4362?style=flat-square&logo=githubpages&logoColor=white)](https://aloualou56.github.io)
 [![Email](https://img.shields.io/badge/Email-akritidis%40roboticsports.org-fb4362?style=flat-square&logo=gmail&logoColor=white)](mailto:akritidis@roboticsports.org)
+[![Gmail](https://img.shields.io/badge/Gmail-hakriti3%40gmail.com-fb4362?style=flat-square&logo=gmail&logoColor=white)](mailto:hakriti3@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aloualou56)
 
