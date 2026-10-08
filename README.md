@@ -5,6 +5,7 @@
 **Student developer building games, full-stack apps and hardware gadgets.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit%20my%20site-fb4362?style=flat-square&logo=githubpages&logoColor=white)](https://aloualou56.github.io)
+[![Email](https://img.shields.io/badge/Email-akritidis%40roboticsports.org-fb4362?style=flat-square&logo=gmail&logoColor=white)](mailto:akritidis@roboticsports.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aloualou56)
 
